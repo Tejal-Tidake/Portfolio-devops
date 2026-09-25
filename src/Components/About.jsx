@@ -15,7 +15,7 @@ function About() {
         <div className="about-content">
 
           <p>
-            I am an IT professional with 3+ years of experience
+            I am an IT professional with 4+ years of experience
             in application support and cloud technologies, with
             a strong focus on AWS DevOps and cloud engineering.
           </p>
