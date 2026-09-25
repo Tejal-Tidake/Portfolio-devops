@@ -13,7 +13,7 @@ function Contact() {
         </h2>
 
         <p className="contact-text">
-          I'm interested in AWS, DevOps, Cloud Engineering
+          I'm interested in AWS, DevOps,Kubernetes, Cloud Engineering
           and automation opportunities.
         </p>
 
