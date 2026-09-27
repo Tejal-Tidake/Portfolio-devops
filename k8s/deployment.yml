@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: devops-portfolio
-          image: tejaltidake/devops-portfolio:v1
+          image: tejaltidake/tejal-devops-portfolio:V1
           ports:
             - containerPort: 80
